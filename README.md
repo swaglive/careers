@@ -1,7 +1,9 @@
 ## Available Positions
 
-* [Sample Job](https://github.com/swaglive/jobs/issues/1)
+* [Sample Job](#1)
+* #1
 
+#1
 
 ## Applying for a Position
 
