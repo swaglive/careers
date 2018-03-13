@@ -1,6 +1,6 @@
 ## Available Positions
 
-* [Sample Job](https://github.com/swaglive/jobs/issues/1)
+* [Senior Frontend Engineer](https://github.com/swaglive/jobs/issues/2)
 
 ## Applying for a Position
 
